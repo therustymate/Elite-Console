@@ -1,0 +1,25 @@
+C:\Users\hsna0\source\repos\Elite Console\Elite Console\bin\Release\net8.0\PacketDotNet.dll
+C:\Users\hsna0\source\repos\Elite Console\Elite Console\bin\Release\net8.0\SharpPcap.dll
+C:\Users\hsna0\source\repos\Elite Console\Elite Console\obj\Release\net8.0\Elite Console.csproj.AssemblyReference.cache
+C:\Users\hsna0\source\repos\Elite Console\Elite Console\obj\Release\net8.0\Elite Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hsna0\source\repos\Elite Console\Elite Console\obj\Release\net8.0\Elite Console.AssemblyInfoInputs.cache
+C:\Users\hsna0\source\repos\Elite Console\Elite Console\obj\Release\net8.0\Elite Console.AssemblyInfo.cs
+C:\Users\hsna0\source\repos\Elite Console\Elite Console\obj\Release\net8.0\Elite Console.csproj.CoreCompileInputs.cache
+C:\Users\hsna0\source\repos\Elite Console\Elite Console\obj\Release\net8.0\Elite Co.7F09AE83.Up2Date
+C:\Users\hsna0\source\repos\Elite Console\Elite Console\obj\Release\net8.0\Elite Console.genruntimeconfig.cache
+C:\Users\hsna0\source\repos\Elite Console\Elite Console\bin\Release\net8.0\Elite.exe
+C:\Users\hsna0\source\repos\Elite Console\Elite Console\bin\Release\net8.0\Elite.deps.json
+C:\Users\hsna0\source\repos\Elite Console\Elite Console\bin\Release\net8.0\Elite.runtimeconfig.json
+C:\Users\hsna0\source\repos\Elite Console\Elite Console\bin\Release\net8.0\Elite.dll
+C:\Users\hsna0\source\repos\Elite Console\Elite Console\bin\Release\net8.0\Elite.pdb
+C:\Users\hsna0\source\repos\Elite Console\Elite Console\obj\Release\net8.0\Elite.dll
+C:\Users\hsna0\source\repos\Elite Console\Elite Console\obj\Release\net8.0\refint\Elite.dll
+C:\Users\hsna0\source\repos\Elite Console\Elite Console\obj\Release\net8.0\Elite.pdb
+C:\Users\hsna0\source\repos\Elite Console\Elite Console\obj\Release\net8.0\ref\Elite.dll
+C:\Users\hsna0\source\repos\Elite Console\Elite Console\bin\Release\net8.0\InTheHand.Net.Personal.dll
+C:\Users\hsna0\source\repos\Elite Console\Elite Console\bin\Release\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\hsna0\source\repos\Elite Console\Elite Console\bin\Release\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\hsna0\source\repos\Elite Console\Elite Console\bin\Release\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hsna0\source\repos\Elite Console\Elite Console\bin\Release\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\hsna0\source\repos\Elite Console\Elite Console\bin\Release\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\hsna0\source\repos\Elite Console\Elite Console\bin\Release\net8.0\System.Net.IPNetwork.dll

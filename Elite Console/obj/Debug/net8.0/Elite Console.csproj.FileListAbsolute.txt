@@ -1,0 +1,18 @@
+C:\Users\hsna0\source\repos\Elite Console\Elite Console\bin\Debug\net8.0\PacketDotNet.dll
+C:\Users\hsna0\source\repos\Elite Console\Elite Console\bin\Debug\net8.0\SharpPcap.dll
+C:\Users\hsna0\source\repos\Elite Console\Elite Console\obj\Debug\net8.0\Elite Console.csproj.AssemblyReference.cache
+C:\Users\hsna0\source\repos\Elite Console\Elite Console\obj\Debug\net8.0\Elite Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hsna0\source\repos\Elite Console\Elite Console\obj\Debug\net8.0\Elite Console.AssemblyInfoInputs.cache
+C:\Users\hsna0\source\repos\Elite Console\Elite Console\obj\Debug\net8.0\Elite Console.AssemblyInfo.cs
+C:\Users\hsna0\source\repos\Elite Console\Elite Console\obj\Debug\net8.0\Elite Console.csproj.CoreCompileInputs.cache
+C:\Users\hsna0\source\repos\Elite Console\Elite Console\obj\Debug\net8.0\Elite Co.7F09AE83.Up2Date
+C:\Users\hsna0\source\repos\Elite Console\Elite Console\obj\Debug\net8.0\Elite Console.genruntimeconfig.cache
+C:\Users\hsna0\source\repos\Elite Console\Elite Console\bin\Debug\net8.0\Elite_Console.exe
+C:\Users\hsna0\source\repos\Elite Console\Elite Console\bin\Debug\net8.0\Elite_Console.deps.json
+C:\Users\hsna0\source\repos\Elite Console\Elite Console\bin\Debug\net8.0\Elite_Console.runtimeconfig.json
+C:\Users\hsna0\source\repos\Elite Console\Elite Console\bin\Debug\net8.0\Elite_Console.dll
+C:\Users\hsna0\source\repos\Elite Console\Elite Console\bin\Debug\net8.0\Elite_Console.pdb
+C:\Users\hsna0\source\repos\Elite Console\Elite Console\obj\Debug\net8.0\Elite_Console.dll
+C:\Users\hsna0\source\repos\Elite Console\Elite Console\obj\Debug\net8.0\refint\Elite_Console.dll
+C:\Users\hsna0\source\repos\Elite Console\Elite Console\obj\Debug\net8.0\Elite_Console.pdb
+C:\Users\hsna0\source\repos\Elite Console\Elite Console\obj\Debug\net8.0\ref\Elite_Console.dll

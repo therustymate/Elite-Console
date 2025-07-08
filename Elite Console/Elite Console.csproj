@@ -1,0 +1,33 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>Elite_Console</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <AssemblyName>Elite</AssemblyName>
+    <ApplicationIcon>Elite.ico</ApplicationIcon>
+    <AssemblyVersion>6.2.3</AssemblyVersion>
+    <FileVersion>6.2.3</FileVersion>
+    <SignAssembly>False</SignAssembly>
+    <Company>ZeroStrike Group</Company>
+    <Authors>DevHolic</Authors>
+    <Description>Highly Customizable In-Network Security Penetration Tool</Description>
+    <PackageProjectUrl></PackageProjectUrl>
+    <Copyright>(c) 2024 ZeroStrike Group. All rights reserved.</Copyright>
+    <Version>6.2.3</Version>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="Elite.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="32feet.NET" Version="3.5.0" />
+    <PackageReference Include="IPNetwork2" Version="3.0.667" />
+    <PackageReference Include="SharpPcap" Version="6.3.0" />
+    <PackageReference Include="System.Configuration.ConfigurationManager" Version="8.0.0" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Elite Console": {
+      "commandName": "Project",
+      "commandLineArgs": "-help"
+    }
+  }
+}

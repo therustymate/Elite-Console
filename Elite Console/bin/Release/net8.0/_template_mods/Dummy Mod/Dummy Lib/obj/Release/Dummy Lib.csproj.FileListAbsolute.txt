@@ -1,0 +1,6 @@
+C:\Users\hsna0\source\repos\Elite Console\Dummy Lib\bin\Release\Dummy Lib.dll
+C:\Users\hsna0\source\repos\Elite Console\Dummy Lib\bin\Release\Dummy Lib.pdb
+C:\Users\hsna0\source\repos\Elite Console\Dummy Lib\obj\Release\Dummy Lib.csproj.AssemblyReference.cache
+C:\Users\hsna0\source\repos\Elite Console\Dummy Lib\obj\Release\Dummy Lib.csproj.CoreCompileInputs.cache
+C:\Users\hsna0\source\repos\Elite Console\Dummy Lib\obj\Release\Dummy Lib.dll
+C:\Users\hsna0\source\repos\Elite Console\Dummy Lib\obj\Release\Dummy Lib.pdb
