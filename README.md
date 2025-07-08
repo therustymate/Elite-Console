@@ -87,8 +87,3 @@ It provides a wide range of features, including ARP spoofing, packet relay, port
 - All public/static methods in the module will be recognized as commands automatically.
 
 ---
-
-## Contribution & Contact
-
-- Pull requests and issues are welcome.
-- For feature requests, bug reports, or suggestions, please create a GitHub issue.
