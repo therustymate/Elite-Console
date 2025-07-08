@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCopyrightAttribute("(c) 2024 ZeroStrike Group. All rights reserved.")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("Highly Customizable In-Network Security Penetration Tool")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("6.2.3")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("6.2.3+bd3d3dca1cec9fca9f29beacc065f9884ddb3695")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("6.2.3+ea43951a0910879b1bbf977994f20945545588e7")]
 [assembly: System.Reflection.AssemblyProductAttribute("Elite")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Elite")]
 [assembly: System.Reflection.AssemblyVersionAttribute("6.2.3")]
