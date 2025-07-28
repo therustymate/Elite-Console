@@ -55,9 +55,9 @@ It provides a wide range of features, including ARP spoofing, packet relay, port
 
 3. **Run Examples**
    ```
-   ./Elite -- -help
-   ./Elite -- arp.mitm "InterfaceName" "TargetIP" "GatewayIP" true
-   ./Elite -- tcp.portscan 192.168.0.10 3000 1~1000
+   ./Elite -help
+   ./Elite -arp.mitm "InterfaceName" "TargetIP" "GatewayIP" true
+   ./Elite -tcp.portscan 192.168.0.10 3000 1~1000
    ```
 
    > You can list available network interfaces with the command: `sys.dev.print all`
